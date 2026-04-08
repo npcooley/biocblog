@@ -36,3 +36,6 @@ Community and collaboration are irreplaceable engines of strong research. Many B
 The ways that researchers search for information, tools, and workflow examples are changing with the rise of large language models and their interfaces. There are opportunities for improving how bioinformaticians, especially those outside of the Bioconductor community, find and familiarize themselves with research solutions within the Bioconductor project, including through improvements to website search and documentation discoverability. A long term goal of this role is to work on documentation templates and checking tools to improve their searchability by LLMs, and explore the feasibility of Bioconductor sanctioned and managed LLMs.
 
 
+## How to get in touch
+
+For developer discussions and ideas, the [Bioconductor Zulip](https://chat.bioconductor.org) is the best place to connect.
